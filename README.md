@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Anas Siddiqui</h1>
-<h3 align="center">A passionate MERN stack developer.</h3>
+<h3 align="center">A passionate MERN stack developer and exploring blockchain development as well.r.</h3>
  <br/>
  
 - 👯 I’m looking to collaborate on **MERN Projects**
